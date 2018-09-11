@@ -1,0 +1,6 @@
+controllers:
+    resource: ../../src/Controller/
+    type: annotation
+app_controllers:
+    resource: ../../src/AppBundle/Controller
+    type: annotation
